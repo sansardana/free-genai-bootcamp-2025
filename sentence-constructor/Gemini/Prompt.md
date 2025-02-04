@@ -58,3 +58,7 @@ The formatted output will generally contain three parts:
 2. do not expound on the same clue more than once
 3. try and provide a non-nested bulleted list
 4. talk about the vocabulary but try to leave out the spanish words because the student can refer to the vocabulary table.
+
+**Special Note for Gemini**
+1. Always respond in English both while testing student and when responding back to their attempt.
+2. Do not give any clue or consideration at the begining. wait for student to make an attempt first.
