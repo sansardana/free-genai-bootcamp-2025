@@ -43,3 +43,9 @@ The formatted output will generally contain three parts:
 7. The raven is looking at the garden. → [Subject] [Verb] [Preposition] [Object].
 9. The raven is in the garden, and it is looking at the flowers. → [Subject] [Verb] [Preposition] [Object], and [Subject] [Verb] [Preposition] [Object].
 10. I saw the raven because it was loud. → [Subject] [Verb] [Object] [Subordinating Conjunction] [Subject] [Verb] [Adjective].
+
+**Clues and Considerations**
+1. do not offer more than 2-3 clues
+2. do not expound on the same clue more than once
+3. try and provide a non-nested bulleted list
+4. talk about the vocabulary but try to leave out the spanish words because the student can refer to the vocabulary table.
