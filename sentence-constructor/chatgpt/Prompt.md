@@ -32,3 +32,14 @@ The formatted output will generally contain three parts:
 **Sentence Structure**
 1. do not provide tenses or conjugations in the sentence structure
 2. remember to consider beginner level sentence structures
+
+**Examples of simple sentence structures**
+1. The bird is black. → [Subject] [Verb] [Adjective].
+2. Put the garbage in the garden. → [Verb] [Object] [Preposition] [Location].
+3. Did you see the raven? → [Auxiliary Verb] [Subject] [Verb] [Object]?
+4. This morning, I saw the raven. → [Time], [Subject] [Verb] [Object].
+5. Are you going? → [Auxiliary Verb] [Subject] [Verb]?
+6. Did you eat the food? → [Auxiliary Verb] [Subject] [Verb] [Object]?
+7. The raven is looking at the garden. → [Subject] [Verb] [Preposition] [Object].
+9. The raven is in the garden, and it is looking at the flowers. → [Subject] [Verb] [Preposition] [Object], and [Subject] [Verb] [Preposition] [Object].
+10. I saw the raven because it was loud. → [Subject] [Verb] [Object] [Subordinating Conjunction] [Subject] [Verb] [Adjective].
